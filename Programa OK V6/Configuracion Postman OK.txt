@@ -1,8 +1,0 @@
-http://localhost:5000/mercadoLibre
-
-Metodo GET
-
-{
-    "producto":"Briket 5000",
-    "limite" : "20"
-}
